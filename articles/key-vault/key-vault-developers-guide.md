@@ -75,7 +75,7 @@ All of your Key Vault resources are accessible through the REST interface; vault
 
 #### .NET
 
-[.NET API refence for Key Vault](https://docs.microsoft.com/dotnet/api/microsoft.azure.keyvault) 
+[.NET API reference for Key Vault](https://docs.microsoft.com/dotnet/api/microsoft.azure.keyvault) 
 
 For more information on the 2.x version of the .NET SDK, see the [Release notes](key-vault-dotnet2api-release-notes.md).
 
